@@ -1,0 +1,34 @@
+.login-page {
+    width: 500px;
+    border: #123592 solid 1px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    gap: 20px;
+}
+
+.login-page form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    color: #123592;
+}
+
+.centering {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: black; */
+}
+
+.group-item {
+    /* width: 500PX; */
+    display: flex;
+    align-items: center;
+    gap: 20PX;
+    flex-direction: column;
+}

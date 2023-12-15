@@ -1,0 +1,10 @@
+.form-control input{
+    width: 400PX;
+    height: 30px;
+    padding: 5PX;
+    border-radius: 5px;
+}
+
+.form-control input:focus {
+    outline: #123592;
+}
